@@ -1,8 +1,5 @@
 ### Hi i am Rachana Yadav 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning data science.
 - 👯 I’m looking to collaborate on youtube.
